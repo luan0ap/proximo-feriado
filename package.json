@@ -1,0 +1,21 @@
+{
+  "name": "proximo-feriado",
+  "version": "1.0.0",
+  "description": "Qual o próximo feriado?",
+  "main": "index.js",
+  "repository": "alexfigueiredo/proximo-feriado",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "keywords": [
+    "feriado",
+    "holiday",
+    "proximo feriado"
+  ],
+  "author": "Alex Figueiredo",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.18.1"
+  }
+}
