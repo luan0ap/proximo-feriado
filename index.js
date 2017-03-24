@@ -3,7 +3,7 @@
 'use strict';
 
 const fs       = require('fs');
-const holidays = JSON.parse(fs.readFileSync('holidays.json', 'utf8'));
+const holidays = JSON.parse(fs.readFileSync('./holidays.json', 'utf8'));
 const moment   = require('moment');
 const now      = moment.now();
 
