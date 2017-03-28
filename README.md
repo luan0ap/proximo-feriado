@@ -2,5 +2,5 @@
 Qual o próximo feriado?
 
 ```
-npm install -g proximo-feriado
+npm install -g alexfigueiredo/proximo-feriado
 ```
